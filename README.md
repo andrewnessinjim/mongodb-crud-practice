@@ -14,11 +14,12 @@ inside each folder. Here's an example:
     └── queries
 ```
 
-In this example, `restaurants` and `zips` are two different databases. The path `./restaurants/data/` will contain all the 
-data you will need to import in your local mongod instance to try out the examples in `restaurants` db. The `queries` 
-directory will contain one file per question. Each file will contain a commented question and a list of different mongodb
-queries answering that question. In the above example, `closest_restaurant.js` and `restaurants_in_area.js` are two 
-such files with a question and queries answering that question.
+In this example, `restaurants` and `zips` are two different databases. The path `./restaurants/data/` will contain all the
+data you will need to import in your local mongod instance to try out the examples in `restaurants` db. You will also find
+"`import.txt`" file which you can use to import the dataset. The `queries` directory will contain one file per question.
+Each file will contain a commented question and a list of different mongodb queries answering that question. In the above
+example, `closest_restaurant.js` and `restaurants_in_area.js` are two such files with a question and queries answering that
+question.
 
 Here are some ways you can contribute to the project:
 
