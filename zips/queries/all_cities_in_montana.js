@@ -8,6 +8,6 @@
      }},
      {$group : {
         _id : "$state",
-        cities : {$push : "$city"}
+        cities : {$addToSet : "$city"}
      }}
  ])
