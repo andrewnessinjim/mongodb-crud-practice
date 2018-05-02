@@ -1,0 +1,2 @@
+mongoimport restaurants.json -d restaurants -c restaurants
+mongoimport neighborhoods.json -d restaurants -c neighborhoods
