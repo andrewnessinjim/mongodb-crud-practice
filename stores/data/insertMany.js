@@ -8,6 +8,6 @@ db.stores.insertMany([
     {
         _id: 2,
         fruits: [ "plums", "kiwis", "oranges", "bananas", "apples" ],
-        vegetables: [ "broccoli", "zucchini", "carrots", "onions" ] 
+        vegetables: [ "broccoli", "zucchini", "carrots", "onions" ]
     }
 ]);
