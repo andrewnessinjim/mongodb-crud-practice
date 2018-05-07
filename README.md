@@ -1,4 +1,4 @@
-# mongodb-query-practice
+# mongodb-CRUD-practice
 The project contains a set of folders, one folder per database. You will find two sub-directories named "`data`" and "`queries`" 
 inside each folder. Here's an example:
 ```
