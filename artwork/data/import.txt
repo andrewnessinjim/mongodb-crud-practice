@@ -1,0 +1,1 @@
+mongoimport -d docsExamples -c artwork artwork.json
