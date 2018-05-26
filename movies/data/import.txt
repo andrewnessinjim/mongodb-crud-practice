@@ -1,0 +1,5 @@
+1) Extract the dump folder
+2) Run the below command:
+    mongorestore dump
+
+This will restore the collections into a database named video.
